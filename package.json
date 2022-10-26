@@ -1,0 +1,44 @@
+{
+  "name": "naiveui-vscode-snippets",
+  "displayName": "Naive Ui VSCode Snippets",
+  "description": "Snippets that will supercharge your Naive Ui workflow ",
+  "version": "0.0.1",
+  "icon": "images/naive-uI-logo.png",
+  "publisher": "Vidya Sagar",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vidyasagar1432/naiveui-vscode-snippets.git"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "keywords": [
+    "Vue",
+    "Vue 3",
+    "Vue 2",
+    "Vue Snippets",
+    "Naive Ui",
+    "Naive Ui Snippets"
+
+  ],
+  "contributes": {
+    "snippets":[
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.code-snippets"
+			}, {
+				"language": "html",
+				"path": "./snippets/snippets.code-snippets"
+			}, {
+				"language": "vue",
+				"path": "./snippets/snippets.code-snippets"
+			}, {
+				"language": "vue-html",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+  }
+}

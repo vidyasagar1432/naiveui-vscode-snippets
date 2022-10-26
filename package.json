@@ -12,10 +12,7 @@
     "type": "git",
     "url": "https://github.com/vidyasagar1432/naiveui-vscode-snippets.git"
   },
-  "scripts": {
-    "build": "vsce package -o naiveui-vscode-snippets-$npm_package_version.vsix",
-    "install": "yarn build && code --install-extension naiveui-vscode-snippets-$npm_package_version.vsix"
-  },
+
   "categories": [
     "Snippets"
   ],

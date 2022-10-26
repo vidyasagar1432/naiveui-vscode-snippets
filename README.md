@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="144px" src="https://naiveui.oss-cn-hongkong.aliyuncs.com/naivelogo.svg" />
-</p>
 
 <h1 align="center">Snippets for Naive UI</h1>
 <p align="center">A Vue 3 Component Library</p>
@@ -20,10 +17,10 @@ _Either_
 
 _or_
 
-- go here [vscode Extensions Marketplace](https://github.com/vidyasagar1432/naiveui-vscode-snippets)
+- go here [vscode Extensions Marketplace](https://marketplace.visualstudio.com/items?itemName=vidyasagar.naiveui-vscode-snippets)
 
 ```javascript
-ext install Naive Ui VSCode Snippets
+ext install vidyasagar.naiveui-vscode-snippets
 ```
 
 

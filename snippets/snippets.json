@@ -485,7 +485,7 @@
 		"<n-affix",
 		  "\t:top=\"$1\"",
 		  "\t:trigger-top=\"$2\"",
-		  "\t:listen-to=\"() => $refs.${3}\"",
+		  "\t:listen-to=\"() => ${3}\"",
 		">",
 		  "\t$4",
 		"</n-affix>",

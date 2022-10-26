@@ -2,7 +2,7 @@
   "name": "naiveui-vscode-snippets",
   "displayName": "Naive UI VSCode Snippets",
   "description": "Snippets that will supercharge your Naive Ui workflow ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "images/naive-ui-logo.png",
   "publisher": "vidyasagar",
   "engines": {

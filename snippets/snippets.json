@@ -789,9 +789,9 @@
 	"Provider: Notification provider": {
 	  "prefix": "nno",
 	  "body": [
-		"<n-nofitication-provider>",
+		"<n-notification-provider>",
 		  "\t$1",
-		"</n-nofitication-provider>",
+		"</n-notification-provider>",
 		"$2"
 	  ],
 	  "description": "Naive UI <n-nofitication-provider>"
